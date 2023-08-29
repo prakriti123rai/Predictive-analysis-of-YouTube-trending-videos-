@@ -1,4 +1,4 @@
-# Predictive-analysis-of-YouTube-trending-videos
+# Predictive analysis of YouTube trending videos
 YouTube stands as a widely recognized interactive platform for sharing videos globally,
 enabling users to rate, share, comment on, save, and upload content. While commonly fa-
 vorited videos amass likes and views over time, YouTube’s trending videos embody content
