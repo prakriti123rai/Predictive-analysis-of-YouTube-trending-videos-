@@ -8,3 +8,6 @@ trending videos. This study aims to examine interactive attributes in order to a
 connections and significance of variables contributing to a video’s trendiness. The focal
 point is understanding how interactive video features propel a video’s trending status on
 YouTube
+
+# Research Paper
+https://drive.google.com/file/d/1r4REkGOFZObt9MiP8Dmqah89xs-LEZ3o/view?usp=sharing
